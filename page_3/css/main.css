@@ -1,0 +1,250 @@
+body {
+  font-size: 0;
+  font-family: arial, verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f3f3f1;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box; }
+
+.content_blogger_wrap {
+  width: 1272px;
+  margin: 0 auto 14px;
+  padding: 20px 0 0; }
+  .content_blogger_wrap .title_blogger_wrap {
+    border-bottom: 1px solid #c8c8c8;
+    margin-bottom: 15px; }
+    .content_blogger_wrap .title_blogger_wrap .title_blogger h3 {
+      font-size: 24px; }
+    .content_blogger_wrap .title_blogger_wrap .input_blogger {
+      text-align: right; }
+      .content_blogger_wrap .title_blogger_wrap .input_blogger input {
+        width: 350px;
+        font-size: 11px;
+        font-family: 'Ubuntu', sans-serif;
+        border: 1px solid #c8c8c8;
+        border-right: none;
+        border-radius: 10px;
+        line-height: 28px;
+        padding-left: 15px;
+        border-bottom-right-radius: 0;
+        border-top-right-radius: 0;
+        outline: none; }
+      .content_blogger_wrap .title_blogger_wrap .input_blogger .button_title_blogger {
+        display: inline-block;
+        vertical-align: top; }
+        .content_blogger_wrap .title_blogger_wrap .input_blogger .button_title_blogger .button_title_blogger_ {
+          height: 32px;
+          width: 33px;
+          border-top-right-radius: 10px;
+          border: none;
+          background-color: #000000; }
+    .content_blogger_wrap .title_blogger_wrap .addition_blogger {
+      display: inline-block;
+      width: 50%; }
+  .content_blogger_wrap .vertikal_block_1 {
+    display: inline-block;
+    width: 305px;
+    background-color: #ffffff; }
+    .content_blogger_wrap .vertikal_block_1 .filter_by {
+      font-size: 15px;
+      font-weight: bold;
+      padding: 30px 0 0 50px; }
+      .content_blogger_wrap .vertikal_block_1 .filter_by .filter_title_ {
+        position: relative;
+        font-size: 14px;
+        font-weight: lighter; }
+        .content_blogger_wrap .vertikal_block_1 .filter_by .filter_title_ label {
+          position: absolute;
+          top: 1px; }
+      .content_blogger_wrap .vertikal_block_1 .filter_by .title_filter {
+        margin-bottom: 0; }
+    .content_blogger_wrap .vertikal_block_1 .by_filter {
+      padding-bottom: 37px; }
+    .content_blogger_wrap .vertikal_block_1 .food_blogger_ .food_blog {
+      padding: 23px 0;
+      display: none; }
+      .content_blogger_wrap .vertikal_block_1 .food_blogger_ .food_blog a {
+        text-decoration: none;
+        color: #000000; }
+    .content_blogger_wrap .vertikal_block_1 .food_blogger_ .food_blogger {
+      width: 100%;
+      height: 45px;
+      background-color: #e5e5e5; }
+      .content_blogger_wrap .vertikal_block_1 .food_blogger_ .food_blogger .blogger_food {
+        position: relative;
+        display: inline-block;
+        font-size: 14px;
+        text-decoration: none;
+        color: #000000;
+        font-weight: bold;
+        width: 255px;
+        height: 45px;
+        line-height: 45px;
+        padding-left: 50px; }
+        .content_blogger_wrap .vertikal_block_1 .food_blogger_ .food_blogger .blogger_food img {
+          margin-left: 188px;
+          position: absolute;
+          top: 21px;
+          right: 15px;
+          transform: rotate(-90deg);
+          transition: .4s; }
+    .content_blogger_wrap .vertikal_block_1 .food_blogger_ p {
+      font-size: 13px;
+      padding-left: 50px; }
+  .content_blogger_wrap .vertikal_block_2 {
+    display: inline-block;
+    width: 920px;
+    vertical-align: top;
+    margin-left: 25px; }
+    .content_blogger_wrap .vertikal_block_2 .biography_wrapper {
+      display: inline-block;
+      width: 945px;
+      background-color: #ffffff;
+      margin-bottom: 20px;
+      position: relative;
+      overflow: hidden;
+      padding-bottom: 15px; }
+      .content_blogger_wrap .vertikal_block_2 .biography_wrapper .greeninfo_ {
+        position: absolute;
+        right: -49px;
+        top: -26px;
+        width: 130px;
+        height: 80px;
+        z-index: 1;
+        text-align: center;
+        background: #3bac4a;
+        display: flex;
+        align-items: flex-end;
+        justify-content: space-around;
+        margin: 0;
+        transform: rotate(45deg);
+        padding-bottom: 5px; }
+        .content_blogger_wrap .vertikal_block_2 .biography_wrapper .greeninfo_ p {
+          color: black;
+          position: absolute;
+          font-size: 13px;
+          width: 70%;
+          text-align: center;
+          margin-bottom: 10px;
+          margin-top: 0;
+          color: white;
+          font-weight: 600; }
+      .content_blogger_wrap .vertikal_block_2 .biography_wrapper .kvadrat {
+        display: inline-block;
+        width: 235px;
+        height: 135px;
+        background-color: #cecece;
+        margin: 20px 52px 0 20px; }
+        .content_blogger_wrap .vertikal_block_2 .biography_wrapper .kvadrat img {
+          width: 100%; }
+      .content_blogger_wrap .vertikal_block_2 .biography_wrapper .jessika {
+        display: inline-block;
+        border-left: 1px solid #a8a8a8;
+        border-right: 1px solid #a8a8a8;
+        width: 246px;
+        height: 115px;
+        vertical-align: bottom;
+        padding-left: 34px; }
+        .content_blogger_wrap .vertikal_block_2 .biography_wrapper .jessika .jess {
+          font-size: 20px;
+          color: #39af49;
+          font-weight: bold;
+          margin: 0; }
+        .content_blogger_wrap .vertikal_block_2 .biography_wrapper .jessika .jess_ {
+          font-size: 14px;
+          color: #7b7b7b;
+          line-height: 0.6; }
+          .content_blogger_wrap .vertikal_block_2 .biography_wrapper .jessika .jess_ a {
+            text-decoration: none;
+            color: #39af49; }
+      .content_blogger_wrap .vertikal_block_2 .biography_wrapper .jessika_foto_wrap {
+        display: inline-block;
+        width: 356px;
+        height: 115px;
+        vertical-align: bottom; }
+        .content_blogger_wrap .vertikal_block_2 .biography_wrapper .jessika_foto_wrap .jessika_foto {
+          display: inline-block;
+          margin-top: 7px;
+          width: 159px;
+          text-align: center; }
+        .content_blogger_wrap .vertikal_block_2 .biography_wrapper .jessika_foto_wrap .jessika_input {
+          display: inline-block;
+          vertical-align: top;
+          width: 197px;
+          height: 115px; }
+          .content_blogger_wrap .vertikal_block_2 .biography_wrapper .jessika_foto_wrap .jessika_input p {
+            display: inline-block; }
+            .content_blogger_wrap .vertikal_block_2 .biography_wrapper .jessika_foto_wrap .jessika_input p a {
+              display: inline-block;
+              width: 27px;
+              height: 25px;
+              line-height: 25px;
+              vertical-align: top; }
+          .content_blogger_wrap .vertikal_block_2 .biography_wrapper .jessika_foto_wrap .jessika_input .jess_social {
+            margin: 25px 0 10px;
+            font-family: FontAwesome; }
+            .content_blogger_wrap .vertikal_block_2 .biography_wrapper .jessika_foto_wrap .jessika_input .jess_social i {
+              font-size: 18px;
+              color: #3bac4a;
+              transition: .4s; }
+            .content_blogger_wrap .vertikal_block_2 .biography_wrapper .jessika_foto_wrap .jessika_input .jess_social i:hover {
+              color: #6a6b6e; }
+          .content_blogger_wrap .vertikal_block_2 .biography_wrapper .jessika_foto_wrap .jessika_input input {
+            width: 145px;
+            height: 34px;
+            background-color: #4f4f4f;
+            border: none;
+            font-size: 14px;
+            color: #ffffff;
+            font-weight: bold; }
+    .content_blogger_wrap .vertikal_block_2 .logo_bba_wrap {
+      display: inline-block;
+      margin-left: 20px;
+      height: 93px; }
+      .content_blogger_wrap .vertikal_block_2 .logo_bba_wrap .text_bba {
+        display: inline-block;
+        width: 569px; }
+        .content_blogger_wrap .vertikal_block_2 .logo_bba_wrap .text_bba .text_bba_title {
+          font-size: 15px;
+          font-weight: 500; }
+        .content_blogger_wrap .vertikal_block_2 .logo_bba_wrap .text_bba .text_bba_content {
+          font-size: 14px;
+          padding-right: 30px; }
+    .content_blogger_wrap .vertikal_block_2 .logo_bba {
+      display: inline-block;
+      width: 311px;
+      text-align: right;
+      padding-right: 45px;
+      vertical-align: middle;
+      height: 80px; }
+  .content_blogger_wrap .pagination_block_2 {
+    background-color: #ffffff;
+    font-size: 13px;
+    color: #3bac4a;
+    font-weight: bold; }
+    .content_blogger_wrap .pagination_block_2 ul {
+      margin: 0;
+      text-align: center; }
+      .content_blogger_wrap .pagination_block_2 ul li {
+        list-style-type: none;
+        display: inline-block;
+        line-height: 55px;
+        padding: 0 10px;
+        transition: .4s;
+        cursor: pointer; }
+      .content_blogger_wrap .pagination_block_2 ul li:last-child {
+        padding-left: 30px; }
+      .content_blogger_wrap .pagination_block_2 ul li:first-child {
+        padding-right: 30px; }
+      .content_blogger_wrap .pagination_block_2 ul li:hover {
+        color: #000000; }
+
+.open_ {
+  display: block !important; }
+
+.revert_ img {
+  transform: rotate(0deg) !important; }
+
+.margin_fix_ {
+  margin-bottom: 7px !important; }

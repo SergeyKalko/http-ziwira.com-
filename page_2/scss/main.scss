@@ -1,0 +1,105 @@
+html {
+	 -moz-box-sizing: border-box; /* Для Firefox */  
+    box-sizing: border-box; /* Ширина блока с полями */
+}
+body {
+	font-size: 0;
+	margin: 0;
+	padding: 0;
+	background-color: #f3f3f1;
+	font-family: "Times New Roman", serif;
+	-moz-box-sizing: border-box; /* Для Firefox */  
+    box-sizing: border-box; /* Ширина блока с полями */
+}
+.row_ {
+	margin-left: -15px;
+	margin-right: -15px;
+}
+.content_article_wrap {
+	background: white;
+	padding:15px;
+}
+.article_submission_wrapper {
+	width: 80%;
+	max-width: 1275px;
+	margin: 0 auto;
+	padding:20px 0;
+	.article_submission{
+		border-bottom: 1px solid #c8c8c8;
+		margin-bottom: 20px;
+		h3 {
+			font-size: 24px;
+			font-family: arial, verdana, sans-serif;
+		}
+	}
+	p {
+		margin: 0;
+	}
+	.addition {
+		padding-top: 30px;
+	}
+	.content_article_wrapper {
+		padding-bottom: 20px; 
+		font-size: 17px;
+		span {
+			color: red;
+			margin-right: 10px;
+		}
+	}
+	.input_content_article {
+		input {
+			height: 40px;
+			width: calc(100% - 15px);
+			font-size: 14px;
+			padding-left: 15px;
+			border: 1px solid #dbd4d4;
+		}
+	}
+	.text_limit{
+		text-align: right;
+		font-size: 12px;
+		padding-top: 0;
+	}
+	.textarea_article {
+		width: calc(100% - 30px);
+		border: 1px solid #dbd4d4;
+		font-size: 14px;
+		padding: 15px 15px 0;
+		resize: none;
+	}
+	.category_wrap {
+		width: 46%;
+		display: inline-block;
+		padding:0 15px;
+		input {
+			width:99%;
+		}
+		select {
+			height: 40px;
+			width: calc(100% - 15px);
+			font-size: 14px;
+			padding-left: 15px;
+			border: 1px solid #dbd4d4;
+		}
+	}
+	.submit_batton {
+		text-align: right;
+		margin-top:20px;
+		.submit_button_ {
+			background-color: #3bb04b;
+			font-size: 15px;
+			padding: 10px 100px;
+			border:none;
+			color:white;
+			font-weight: bold;
+		}
+	}
+
+}
+
+
+
+
+@media (max-width: 767px) {
+	
+}
